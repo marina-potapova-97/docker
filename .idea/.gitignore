@@ -18,8 +18,6 @@ build/
 *.iws
 *.iml
 *.ipr
-misc.xml
-workspace.xml
 out/
 
 ### NetBeans ###
